@@ -1,2 +1,2 @@
-# WD4E_A1_3
-WD4E_A1 The text for the four links is: One, Two, ***Three, and Your choice (change to text of your choice)
+# DUKE BI Assignment
+[Happy Hats](https://lindangulopez.github.io/WD4E_A1/CopyofArticulatingBusinessMetrics_HappyHatCas.html)
